@@ -1,0 +1,6 @@
+framework module Pods_WRRTestLib_Tests {
+  umbrella header "Pods-WRRTestLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

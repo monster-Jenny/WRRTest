@@ -1,0 +1,6 @@
+framework module WRRTestLib {
+  umbrella header "WRRTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
